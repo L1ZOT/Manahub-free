@@ -1,3 +1,4 @@
+--POGBOY--
 local userkey = "https://pastebin.com/raw/rNTu4dCJ"
 local blacklist = "https://pastebin.com/raw/SNpvX0W5"
 local key = game:HttpGet(userkey, true)
